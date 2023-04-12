@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is a checklist of skills requirements for data analyst employment
 
 <!--
 **atjamesfalcone/atjamesfalcone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
